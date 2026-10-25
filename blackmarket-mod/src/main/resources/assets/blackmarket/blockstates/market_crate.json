@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "blackmarket:block/market_crate" }
+  }
+}

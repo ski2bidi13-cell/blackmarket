@@ -1,0 +1,11 @@
+{
+  "itemGroup.blackmarket": "Чёрный Рынок",
+  "item.blackmarket.dirty_cash": "Грязные деньги",
+  "item.blackmarket.organ": "Сомнительный орган",
+  "item.blackmarket.green_smoke": "Зелёный Дым",
+  "item.blackmarket.red_dust": "Красная Пыль",
+  "item.blackmarket.blue_crystal": "Синий Кристалл",
+  "item.blackmarket.bribe": "Взятка",
+  "block.blackmarket.market_crate": "Ящик скупщика",
+  "entity.blackmarket.agent": "Агент ГНК"
+}

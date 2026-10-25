@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["III", "IBI", "III"],
+  "key": {
+    "I": { "item": "minecraft:iron_nugget" },
+    "B": { "item": "minecraft:barrel" }
+  },
+  "result": { "item": "blackmarket:market_crate" }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:redstone" },
+    { "item": "minecraft:spider_eye" },
+    { "item": "minecraft:gunpowder" }
+  ],
+  "result": { "item": "blackmarket:red_dust", "count": 2 }
+}

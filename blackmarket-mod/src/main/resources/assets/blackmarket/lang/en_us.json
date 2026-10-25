@@ -1,0 +1,11 @@
+{
+  "itemGroup.blackmarket": "Black Market",
+  "item.blackmarket.dirty_cash": "Dirty Cash",
+  "item.blackmarket.organ": "Shady Organ",
+  "item.blackmarket.green_smoke": "Green Smoke",
+  "item.blackmarket.red_dust": "Red Dust",
+  "item.blackmarket.blue_crystal": "Blue Crystal",
+  "item.blackmarket.bribe": "Bribe",
+  "block.blackmarket.market_crate": "Fence Crate",
+  "entity.blackmarket.agent": "Narc Agent"
+}

@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="blackmarket"
+version="1.0.0"
+displayName="Чёрный Рынок"
+description='''
+Вымышленный криминальный мод: торгуй «сомнительными органами» с мобов и выдуманными веществами,
+а когда розыск растёт — убегай от агентов ГНК.
+'''
+
+[[dependencies.blackmarket]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.blackmarket]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
